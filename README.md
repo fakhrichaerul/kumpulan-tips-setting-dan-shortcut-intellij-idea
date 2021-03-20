@@ -2,9 +2,9 @@
 
 add shortcut for arrow 'Up' 'Down' 'Right' 'End' from file->setting->keymap->editor actions
 
-Up = Alt + I
-Down = Alt + K
-Right = Alt + L
+Up = Alt + I,
+Down = Alt + K,
+Right = Alt + L,
 End = Alt + ;
 
 
