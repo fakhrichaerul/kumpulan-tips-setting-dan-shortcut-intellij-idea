@@ -6,7 +6,7 @@ Up = Alt + I,
 Down = Alt + K,
 Right = Alt + L,
 End = Alt + ;
-Home = Alt + P  // Move Caret/cursor to start of line
+Home = Alt + P  // Move Caret to start of line
 
 
 *Left behind the Alt+j cause it's already been taken for Word Selection action
